@@ -1,0 +1,251 @@
+voltage_v,current_a,temperature_c,label
+229.42,4.79,34.55,Normal
+232.81,4.85,29.01,Normal
+231.33,4.68,34.13,Normal
+230.46,5.28,39.65,Normal
+232.63,5.13,32.05,Normal
+225.94,5.3,40.24,Normal
+230.17,4.87,37.13,Normal
+224.19,4.63,36.96,Normal
+233.49,4.71,36.51,Normal
+230.99,5.94,30.55,Normal
+232.27,3.18,24.52,Normal
+227.57,3.9,38.5,Normal
+232.66,3.54,38.39,Normal
+225.99,4.9,33.82,Normal
+230.46,5.98,37.55,Normal
+231.4,5.78,36.91,Normal
+227.49,4.14,33.12,Normal
+232.0,4.7,44.34,Normal
+226.72,3.68,38.07,Normal
+235.69,5.61,38.34,Normal
+235.71,4.89,29.31,Normal
+227.87,6.14,29.23,Normal
+230.13,5.3,33.74,Normal
+232.89,5.7,44.29,Normal
+232.48,4.27,32.75,Normal
+226.67,6.14,32.73,Normal
+229.72,5.9,32.11,Normal
+228.83,2.79,30.67,Normal
+227.73,5.5,39.77,Normal
+229.93,5.31,35.67,Normal
+234.34,6.07,36.09,Normal
+225.96,6.08,36.52,Normal
+234.91,4.96,42.81,Normal
+228.56,6.91,35.46,Normal
+227.93,3.65,34.4,Normal
+235.69,5.98,37.76,Normal
+220.5,5.85,37.22,Normal
+227.8,4.25,34.99,Normal
+236.9,3.73,33.29,Normal
+235.45,4.46,33.54,Normal
+230.39,3.51,35.88,Normal
+225.16,6.06,35.01,Normal
+239.13,5.34,40.46,Normal
+224.79,4.85,36.29,Normal
+236.98,2.98,38.96,Normal
+232.37,6.84,37.85,Normal
+230.21,4.37,30.01,Normal
+230.78,4.77,43.08,Normal
+227.56,5.38,28.72,Normal
+228.42,5.31,38.3,Normal
+230.79,17.95,67.53,Overload
+226.83,18.62,73.97,Overload
+222.2,19.36,72.35,Overload
+227.8,19.53,74.44,Overload
+226.15,20.58,72.97,Overload
+223.82,18.13,77.93,Overload
+225.47,18.62,76.78,Overload
+222.95,15.93,73.2,Overload
+225.92,17.27,75.48,Overload
+227.43,16.81,74.07,Overload
+224.22,16.22,73.81,Overload
+224.82,17.11,74.09,Overload
+226.95,17.31,73.6,Overload
+229.06,17.14,73.52,Overload
+225.01,20.72,64.55,Overload
+227.78,17.63,71.6,Overload
+232.61,17.99,80.96,Overload
+223.23,18.42,70.04,Overload
+222.24,18.07,70.87,Overload
+225.81,15.47,80.01,Overload
+224.33,20.09,67.97,Overload
+226.17,21.8,68.52,Overload
+219.02,17.34,73.89,Overload
+227.77,19.55,70.97,Overload
+218.59,17.48,76.96,Overload
+226.86,15.65,71.86,Overload
+230.59,20.55,74.25,Overload
+226.24,16.51,68.63,Overload
+225.19,18.6,74.32,Overload
+223.09,16.62,68.89,Overload
+220.37,18.77,62.75,Overload
+223.67,18.54,78.09,Overload
+225.29,19.2,70.4,Overload
+222.02,17.19,78.11,Overload
+228.98,18.58,85.32,Overload
+224.87,18.74,73.23,Overload
+224.11,20.78,78.03,Overload
+219.4,17.52,73.71,Overload
+228.13,16.38,62.98,Overload
+217.37,17.91,71.59,Overload
+226.38,17.08,67.1,Overload
+216.91,18.4,73.48,Overload
+228.97,18.95,71.24,Overload
+230.4,17.84,69.36,Overload
+222.92,17.3,63.34,Overload
+225.63,18.3,70.55,Overload
+222.14,18.45,78.87,Overload
+225.15,17.39,69.63,Overload
+224.72,16.48,71.5,Overload
+225.24,20.21,75.77,Overload
+192.24,7.14,42.68,Undervoltage
+177.02,8.37,41.67,Undervoltage
+179.64,10.4,42.27,Undervoltage
+171.68,8.66,38.37,Undervoltage
+185.01,8.56,41.56,Undervoltage
+170.73,6.61,43.09,Undervoltage
+194.11,10.28,47.21,Undervoltage
+170.61,8.92,32.33,Undervoltage
+196.3,8.3,35.44,Undervoltage
+199.07,8.77,32.44,Undervoltage
+187.05,7.12,40.45,Undervoltage
+181.74,9.65,34.31,Undervoltage
+187.22,10.18,36.69,Undervoltage
+186.47,8.24,37.24,Undervoltage
+189.54,8.12,36.22,Undervoltage
+197.33,8.95,39.33,Undervoltage
+180.54,7.06,44.92,Undervoltage
+183.97,8.55,39.26,Undervoltage
+189.31,7.86,43.06,Undervoltage
+183.72,9.0,42.69,Undervoltage
+184.18,6.97,36.24,Undervoltage
+179.81,6.82,43.46,Undervoltage
+184.67,9.88,49.12,Undervoltage
+185.17,6.14,38.47,Undervoltage
+184.47,6.21,39.0,Undervoltage
+187.01,7.45,36.93,Undervoltage
+179.69,10.14,39.36,Undervoltage
+179.19,7.55,43.82,Undervoltage
+180.21,8.58,42.91,Undervoltage
+190.24,9.68,37.8,Undervoltage
+192.93,7.05,38.41,Undervoltage
+193.37,8.99,40.01,Undervoltage
+176.66,8.67,37.48,Undervoltage
+178.53,7.22,40.99,Undervoltage
+170.15,8.43,40.7,Undervoltage
+180.91,9.24,42.45,Undervoltage
+180.76,7.2,42.78,Undervoltage
+174.39,7.6,37.48,Undervoltage
+185.49,8.25,40.15,Undervoltage
+192.94,8.27,38.74,Undervoltage
+176.52,8.87,42.11,Undervoltage
+195.16,7.1,40.11,Undervoltage
+184.59,7.89,40.04,Undervoltage
+173.0,8.99,42.61,Undervoltage
+192.91,10.7,38.72,Undervoltage
+184.75,8.01,47.77,Undervoltage
+172.88,8.58,34.12,Undervoltage
+166.93,5.58,34.47,Undervoltage
+192.48,6.96,39.09,Undervoltage
+176.86,8.73,35.59,Undervoltage
+233.27,5.81,84.94,Overheating
+228.49,7.03,93.7,Overheating
+228.48,5.55,85.76,Overheating
+225.71,7.87,89.54,Overheating
+227.52,8.04,85.89,Overheating
+227.46,7.22,94.11,Overheating
+227.61,6.58,83.82,Overheating
+230.74,6.29,89.37,Overheating
+220.39,8.25,82.67,Overheating
+224.89,8.27,82.66,Overheating
+227.68,7.09,84.01,Overheating
+233.37,8.8,80.11,Overheating
+222.2,7.97,82.79,Overheating
+226.45,7.16,90.77,Overheating
+227.11,7.11,84.89,Overheating
+233.17,6.41,89.36,Overheating
+225.95,7.13,87.33,Overheating
+227.35,5.78,91.19,Overheating
+233.66,7.29,90.93,Overheating
+231.35,8.11,89.21,Overheating
+228.85,8.04,88.28,Overheating
+224.1,7.03,80.45,Overheating
+227.98,7.5,92.94,Overheating
+228.61,8.11,88.0,Overheating
+223.91,5.31,84.12,Overheating
+222.54,7.76,87.17,Overheating
+230.28,7.09,92.18,Overheating
+232.24,6.23,86.9,Overheating
+225.87,5.05,90.7,Overheating
+232.76,6.99,86.03,Overheating
+232.36,4.19,88.71,Overheating
+228.57,6.31,93.57,Overheating
+231.88,6.69,87.65,Overheating
+226.45,6.39,82.77,Overheating
+233.52,8.23,91.19,Overheating
+223.62,9.5,95.92,Overheating
+228.75,5.91,84.53,Overheating
+229.67,5.9,87.86,Overheating
+232.35,5.19,96.02,Overheating
+234.27,5.52,82.35,Overheating
+226.87,5.76,86.95,Overheating
+217.68,6.73,95.21,Overheating
+223.53,6.67,82.04,Overheating
+230.55,6.73,95.76,Overheating
+228.83,6.55,90.2,Overheating
+225.98,5.39,89.21,Overheating
+227.3,7.2,89.5,Overheating
+225.96,7.51,94.95,Overheating
+223.57,9.08,87.03,Overheating
+224.93,9.91,88.62,Overheating
+215.48,30.45,58.28,Possible short-circuit
+210.48,26.42,59.63,Possible short-circuit
+202.91,28.31,67.36,Possible short-circuit
+211.56,27.08,61.81,Possible short-circuit
+206.05,26.33,60.87,Possible short-circuit
+209.19,27.93,61.42,Possible short-circuit
+209.07,25.72,64.98,Possible short-circuit
+212.03,28.53,66.89,Possible short-circuit
+203.39,26.86,66.11,Possible short-circuit
+212.56,23.21,65.64,Possible short-circuit
+214.83,27.46,64.62,Possible short-circuit
+211.8,28.74,67.7,Possible short-circuit
+210.29,28.46,61.87,Possible short-circuit
+209.32,31.76,64.18,Possible short-circuit
+209.33,26.53,68.15,Possible short-circuit
+206.58,30.73,61.25,Possible short-circuit
+205.77,28.62,65.52,Possible short-circuit
+211.19,31.19,63.35,Possible short-circuit
+211.77,25.27,70.04,Possible short-circuit
+212.53,29.61,65.75,Possible short-circuit
+206.86,27.02,67.01,Possible short-circuit
+209.92,28.37,59.56,Possible short-circuit
+210.72,25.92,60.67,Possible short-circuit
+209.38,22.43,67.79,Possible short-circuit
+213.41,27.84,61.02,Possible short-circuit
+206.22,27.55,55.31,Possible short-circuit
+210.72,29.99,63.75,Possible short-circuit
+208.02,28.55,66.4,Possible short-circuit
+214.38,28.06,62.24,Possible short-circuit
+208.15,28.55,71.22,Possible short-circuit
+208.72,24.84,61.52,Possible short-circuit
+201.61,28.99,59.55,Possible short-circuit
+205.07,22.07,60.53,Possible short-circuit
+212.27,24.07,58.0,Possible short-circuit
+210.71,26.98,66.73,Possible short-circuit
+212.96,27.97,59.81,Possible short-circuit
+209.5,29.5,62.67,Possible short-circuit
+204.25,31.31,63.34,Possible short-circuit
+208.36,28.05,69.12,Possible short-circuit
+211.05,27.0,67.73,Possible short-circuit
+218.59,32.16,67.69,Possible short-circuit
+205.51,39.26,60.21,Possible short-circuit
+208.51,25.9,71.51,Possible short-circuit
+211.68,23.72,66.07,Possible short-circuit
+212.19,27.04,60.12,Possible short-circuit
+207.1,26.69,65.09,Possible short-circuit
+207.92,30.21,61.2,Possible short-circuit
+203.07,25.78,70.4,Possible short-circuit
+207.71,35.02,66.97,Possible short-circuit
+205.34,25.5,65.97,Possible short-circuit
